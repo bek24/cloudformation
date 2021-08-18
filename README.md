@@ -1,2 +1,3 @@
 # cloudformation
 CloudFormation templates
+This repository contains templates that you can use to deploy ec2, auto-scalling, elb....
